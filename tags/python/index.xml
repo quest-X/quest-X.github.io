@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Chl&#39;s blog</title>
+    <link>https://model.work/tags/python/</link>
+    <description>Recent content in python on Chl&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2023 12:47:21 +0800</lastBuildDate>
+    <atom:link href="https://model.work/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electron 联合 Python &amp; Flask 跨平台桌面应用开发示例(4)</title>
+      <link>https://model.work/post/electron-%E8%81%94%E5%90%88-python-flask-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B4/</link>
+      <pubDate>Wed, 15 Nov 2023 12:47:21 +0800</pubDate>
+      <guid>https://model.work/post/electron-%E8%81%94%E5%90%88-python-flask-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B4/</guid>
+      <description>📦 这是一个关于使用Electron和Python以及Flask联合开发跨平台桌面应用的示例代码仓库。</description>
+    </item>
+  </channel>
+</rss>

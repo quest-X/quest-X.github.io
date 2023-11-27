@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vscode on Chl&#39;s blog</title>
+    <link>https://model.work/tags/vscode/</link>
+    <description>Recent content in vscode on Chl&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Nov 2023 16:53:23 +0800</lastBuildDate>
+    <atom:link href="https://model.work/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electron 使用 Visual Studio Code 开发(2)</title>
+      <link>https://model.work/post/electron-%E4%BD%BF%E7%94%A8-visual-studio-code-%E5%BC%80%E5%8F%912/</link>
+      <pubDate>Tue, 14 Nov 2023 16:53:23 +0800</pubDate>
+      <guid>https://model.work/post/electron-%E4%BD%BF%E7%94%A8-visual-studio-code-%E5%BC%80%E5%8F%912/</guid>
+      <description>📑在这份文档中, 我们将了解如何在 Visual Studio Code 中调试 Electron 应用程序。</description>
+    </item>
+  </channel>
+</rss>

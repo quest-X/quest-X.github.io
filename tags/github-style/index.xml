@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github-style on Chl&#39;s blog</title>
+    <link>https://model.work/tags/github-style/</link>
+    <description>Recent content in github-style on Chl&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Nov 2023 16:26:29 +0800</lastBuildDate>
+    <atom:link href="https://model.work/tags/github-style/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo 主题 github-style 添加标签 tags</title>
+      <link>https://model.work/post/hugo-%E4%B8%BB%E9%A2%98-github-style-%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE-tags/</link>
+      <pubDate>Fri, 10 Nov 2023 16:26:29 +0800</pubDate>
+      <guid>https://model.work/post/hugo-%E4%B8%BB%E9%A2%98-github-style-%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE-tags/</guid>
+      <description>🤣从hexo转hugo, 遇上toml这个新语法, 瞬间不会添加标签tags了, 还好我会google</description>
+    </item>
+  </channel>
+</rss>

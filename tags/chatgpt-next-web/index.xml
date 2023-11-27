@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ChatGPT Next Web on Chl&#39;s blog</title>
+    <link>https://model.work/tags/chatgpt-next-web/</link>
+    <description>Recent content in ChatGPT Next Web on Chl&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2023 09:38:58 +0800</lastBuildDate>
+    <atom:link href="https://model.work/tags/chatgpt-next-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT Next Web 更新版本</title>
+      <link>https://model.work/post/chatgpt-next-web-%E6%9B%B4%E6%96%B0%E7%89%88%E6%9C%AC/</link>
+      <pubDate>Mon, 13 Nov 2023 09:38:58 +0800</pubDate>
+      <guid>https://model.work/post/chatgpt-next-web-%E6%9B%B4%E6%96%B0%E7%89%88%E6%9C%AC/</guid>
+      <description>🔄 开启自动更新, 需要 fork 项目后启用 Workflows 和 Upstream Sync Action，实现每小时自动更新。</description>
+    </item>
+  </channel>
+</rss>

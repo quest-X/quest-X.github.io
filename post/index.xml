@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chl&#39;s blog</title>
+    <link>https://model.work/post/</link>
+    <description>Recent content in Posts on Chl&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2023 09:06:12 +0800</lastBuildDate>
+    <atom:link href="https://model.work/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 Docker 安装 Shadowsocks-Manager 过程: 常用管理指令 (3)</title>
+      <link>https://model.work/post/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%85-shadowsocks-manager-%E8%BF%87%E7%A8%8B%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A43/</link>
+      <pubDate>Mon, 27 Nov 2023 09:06:12 +0800</pubDate>
+      <guid>https://model.work/post/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%85-shadowsocks-manager-%E8%BF%87%E7%A8%8B%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A43/</guid>
+      <description>🧀 本文介绍了如何在 Ubuntu 22.04 LTS 系统上使用 Docker 容器管理 Shadowsocks-Manager 的常用指令。</description>
+    </item>
+    <item>
+      <title>使用 Docker 安装 Shadowsocks-Manager 过程: Redis 配置(2)</title>
+      <link>https://model.work/post/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%85-shadowsocks-manager-%E8%BF%87%E7%A8%8Bredis-%E9%85%8D%E7%BD%AE2/</link>
+      <pubDate>Mon, 27 Nov 2023 09:05:55 +0800</pubDate>
+      <guid>https://model.work/post/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%85-shadowsocks-manager-%E8%BF%87%E7%A8%8Bredis-%E9%85%8D%E7%BD%AE2/</guid>
+      <description>🔒 本文介绍了 Redis 配置过程，目的是为使 Shadowsocks-Manager 面板正常登录。</description>
+    </item>
+    <item>
+      <title>使用 Docker 安装 Shadowsocks-Manager 过程: 启动面板(1)</title>
+      <link>https://model.work/post/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%85-shadowsocks-manager-%E8%BF%87%E7%A8%8B%E5%90%AF%E5%8A%A8%E9%9D%A2%E6%9D%BF1/</link>
+      <pubDate>Fri, 24 Nov 2023 15:25:20 +0800</pubDate>
+      <guid>https://model.work/post/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%85-shadowsocks-manager-%E8%BF%87%E7%A8%8B%E5%90%AF%E5%8A%A8%E9%9D%A2%E6%9D%BF1/</guid>
+      <description>🐳 本文介绍了如何使用 Docker 安装 Shadowsocks-Manager，包括安装 Docker Engine、添加配置文件以及启动容器的步骤。</description>
+    </item>
+    <item>
+      <title>介绍 OpenAI 官方 API 使用教程(持续更新)</title>
+      <link>https://model.work/post/%E4%BB%8B%E7%BB%8D-openai-%E5%AE%98%E6%96%B9-api-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Tue, 21 Nov 2023 11:19:51 +0800</pubDate>
+      <guid>https://model.work/post/%E4%BB%8B%E7%BB%8D-openai-%E5%AE%98%E6%96%B9-api-%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/</guid>
+      <description>😈 这份文档致力保持与OpenAI官方文档同步，并主要介绍ChatGPT API调用方法。</description>
+    </item>
+    <item>
+      <title>Electron 联合 Python &amp; Flask 跨平台桌面应用开发示例(4)</title>
+      <link>https://model.work/post/electron-%E8%81%94%E5%90%88-python-flask-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B4/</link>
+      <pubDate>Wed, 15 Nov 2023 12:47:21 +0800</pubDate>
+      <guid>https://model.work/post/electron-%E8%81%94%E5%90%88-python-flask-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B4/</guid>
+      <description>📦 这是一个关于使用Electron和Python以及Flask联合开发跨平台桌面应用的示例代码仓库。</description>
+    </item>
+    <item>
+      <title>Electron 最小化示例应用程序(3)</title>
+      <link>https://model.work/post/electron-%E6%9C%80%E5%B0%8F%E5%8C%96%E7%A4%BA%E4%BE%8B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F3/</link>
+      <pubDate>Wed, 15 Nov 2023 11:38:54 +0800</pubDate>
+      <guid>https://model.work/post/electron-%E6%9C%80%E5%B0%8F%E5%8C%96%E7%A4%BA%E4%BE%8B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F3/</guid>
+      <description>📦 Electron 快速入门, 这是一个 Electron 的最小化示例应用程序。</description>
+    </item>
+    <item>
+      <title>Electron 使用 Visual Studio Code 开发(2)</title>
+      <link>https://model.work/post/electron-%E4%BD%BF%E7%94%A8-visual-studio-code-%E5%BC%80%E5%8F%912/</link>
+      <pubDate>Tue, 14 Nov 2023 16:53:23 +0800</pubDate>
+      <guid>https://model.work/post/electron-%E4%BD%BF%E7%94%A8-visual-studio-code-%E5%BC%80%E5%8F%912/</guid>
+      <description>📑在这份文档中, 我们将了解如何在 Visual Studio Code 中调试 Electron 应用程序。</description>
+    </item>
+    <item>
+      <title>Electron 初次体验(1)</title>
+      <link>https://model.work/post/electron-%E5%88%9D%E6%AC%A1%E4%BD%93%E9%AA%8C1/</link>
+      <pubDate>Tue, 14 Nov 2023 16:20:40 +0800</pubDate>
+      <guid>https://model.work/post/electron-%E5%88%9D%E6%AC%A1%E4%BD%93%E9%AA%8C1/</guid>
+      <description>📦 Electron 是一个用于构建跨平台桌面应用程序的框架，支持在不同操作系统(Windows/macOS/Linux)上运行。</description>
+    </item>
+    <item>
+      <title>ChatGPT Next Web 更新版本</title>
+      <link>https://model.work/post/chatgpt-next-web-%E6%9B%B4%E6%96%B0%E7%89%88%E6%9C%AC/</link>
+      <pubDate>Mon, 13 Nov 2023 09:38:58 +0800</pubDate>
+      <guid>https://model.work/post/chatgpt-next-web-%E6%9B%B4%E6%96%B0%E7%89%88%E6%9C%AC/</guid>
+      <description>🔄 开启自动更新, 需要 fork 项目后启用 Workflows 和 Upstream Sync Action，实现每小时自动更新。</description>
+    </item>
+    <item>
+      <title>Hugo 部署到 GitHub Pages 过程</title>
+      <link>https://model.work/post/hugo-%E9%83%A8%E7%BD%B2%E5%88%B0-github-pages-%E8%BF%87%E7%A8%8B/</link>
+      <pubDate>Fri, 10 Nov 2023 18:04:30 +0800</pubDate>
+      <guid>https://model.work/post/hugo-%E9%83%A8%E7%BD%B2%E5%88%B0-github-pages-%E8%BF%87%E7%A8%8B/</guid>
+      <description>🤖 构建和部署Hugo网站到GitHub Pages, 自动构建和部署您的网站。</description>
+    </item>
+    <item>
+      <title>Hugo 创建 markdown 文档插入图像</title>
+      <link>https://model.work/post/hugo-%E5%88%9B%E5%BB%BA-markdown-%E6%96%87%E6%A1%A3%E6%8F%92%E5%85%A5%E5%9B%BE%E5%83%8F/</link>
+      <pubDate>Fri, 10 Nov 2023 16:48:50 +0800</pubDate>
+      <guid>https://model.work/post/hugo-%E5%88%9B%E5%BB%BA-markdown-%E6%96%87%E6%A1%A3%E6%8F%92%E5%85%A5%E5%9B%BE%E5%83%8F/</guid>
+      <description>🖼️ 这篇文章介绍了在Hugo博客中如何引用本地图片，提供了两种选择：使用 &lt;strong&gt;图床&lt;/strong&gt; 或使用 &lt;strong&gt;本地图片&lt;/strong&gt;，并详细说明了使用本地图片的操作步骤。</description>
+    </item>
+    <item>
+      <title>Hugo 主题 github-style 添加标签 tags</title>
+      <link>https://model.work/post/hugo-%E4%B8%BB%E9%A2%98-github-style-%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE-tags/</link>
+      <pubDate>Fri, 10 Nov 2023 16:26:29 +0800</pubDate>
+      <guid>https://model.work/post/hugo-%E4%B8%BB%E9%A2%98-github-style-%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE-tags/</guid>
+      <description>🤣从hexo转hugo, 遇上toml这个新语法, 瞬间不会添加标签tags了, 还好我会google</description>
+    </item>
+  </channel>
+</rss>

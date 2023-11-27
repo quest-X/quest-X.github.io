@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electron on Chl&#39;s blog</title>
+    <link>https://model.work/tags/electron/</link>
+    <description>Recent content in electron on Chl&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Nov 2023 12:47:21 +0800</lastBuildDate>
+    <atom:link href="https://model.work/tags/electron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electron 联合 Python &amp; Flask 跨平台桌面应用开发示例(4)</title>
+      <link>https://model.work/post/electron-%E8%81%94%E5%90%88-python-flask-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B4/</link>
+      <pubDate>Wed, 15 Nov 2023 12:47:21 +0800</pubDate>
+      <guid>https://model.work/post/electron-%E8%81%94%E5%90%88-python-flask-%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E7%A4%BA%E4%BE%8B4/</guid>
+      <description>📦 这是一个关于使用Electron和Python以及Flask联合开发跨平台桌面应用的示例代码仓库。</description>
+    </item>
+    <item>
+      <title>Electron 最小化示例应用程序(3)</title>
+      <link>https://model.work/post/electron-%E6%9C%80%E5%B0%8F%E5%8C%96%E7%A4%BA%E4%BE%8B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F3/</link>
+      <pubDate>Wed, 15 Nov 2023 11:38:54 +0800</pubDate>
+      <guid>https://model.work/post/electron-%E6%9C%80%E5%B0%8F%E5%8C%96%E7%A4%BA%E4%BE%8B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F3/</guid>
+      <description>📦 Electron 快速入门, 这是一个 Electron 的最小化示例应用程序。</description>
+    </item>
+    <item>
+      <title>Electron 使用 Visual Studio Code 开发(2)</title>
+      <link>https://model.work/post/electron-%E4%BD%BF%E7%94%A8-visual-studio-code-%E5%BC%80%E5%8F%912/</link>
+      <pubDate>Tue, 14 Nov 2023 16:53:23 +0800</pubDate>
+      <guid>https://model.work/post/electron-%E4%BD%BF%E7%94%A8-visual-studio-code-%E5%BC%80%E5%8F%912/</guid>
+      <description>📑在这份文档中, 我们将了解如何在 Visual Studio Code 中调试 Electron 应用程序。</description>
+    </item>
+    <item>
+      <title>Electron 初次体验(1)</title>
+      <link>https://model.work/post/electron-%E5%88%9D%E6%AC%A1%E4%BD%93%E9%AA%8C1/</link>
+      <pubDate>Tue, 14 Nov 2023 16:20:40 +0800</pubDate>
+      <guid>https://model.work/post/electron-%E5%88%9D%E6%AC%A1%E4%BD%93%E9%AA%8C1/</guid>
+      <description>📦 Electron 是一个用于构建跨平台桌面应用程序的框架，支持在不同操作系统(Windows/macOS/Linux)上运行。</description>
+    </item>
+  </channel>
+</rss>

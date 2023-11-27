@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Redis on Chl&#39;s blog</title>
+    <link>https://model.work/tags/redis/</link>
+    <description>Recent content in Redis on Chl&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2023 09:05:55 +0800</lastBuildDate>
+    <atom:link href="https://model.work/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 Docker 安装 Shadowsocks-Manager 过程: Redis 配置(2)</title>
+      <link>https://model.work/post/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%85-shadowsocks-manager-%E8%BF%87%E7%A8%8Bredis-%E9%85%8D%E7%BD%AE2/</link>
+      <pubDate>Mon, 27 Nov 2023 09:05:55 +0800</pubDate>
+      <guid>https://model.work/post/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%85-shadowsocks-manager-%E8%BF%87%E7%A8%8Bredis-%E9%85%8D%E7%BD%AE2/</guid>
+      <description>🔒 本文介绍了 Redis 配置过程，目的是为使 Shadowsocks-Manager 面板正常登录。</description>
+    </item>
+  </channel>
+</rss>

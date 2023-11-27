@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Chl&#39;s blog</title>
+    <link>https://model.work/tags/</link>
+    <description>Recent content in Tags on Chl&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2023 09:06:12 +0800</lastBuildDate>
+    <atom:link href="https://model.work/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Command</title>
+      <link>https://model.work/tags/command/</link>
+      <pubDate>Mon, 27 Nov 2023 09:06:12 +0800</pubDate>
+      <guid>https://model.work/tags/command/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>https://model.work/tags/docker/</link>
+      <pubDate>Mon, 27 Nov 2023 09:06:12 +0800</pubDate>
+      <guid>https://model.work/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shadowsocks-Manager</title>
+      <link>https://model.work/tags/shadowsocks-manager/</link>
+      <pubDate>Mon, 27 Nov 2023 09:06:12 +0800</pubDate>
+      <guid>https://model.work/tags/shadowsocks-manager/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>https://model.work/tags/ubuntu/</link>
+      <pubDate>Mon, 27 Nov 2023 09:06:12 +0800</pubDate>
+      <guid>https://model.work/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>人类撰写</title>
+      <link>https://model.work/tags/%E4%BA%BA%E7%B1%BB%E6%92%B0%E5%86%99/</link>
+      <pubDate>Mon, 27 Nov 2023 09:06:12 +0800</pubDate>
+      <guid>https://model.work/tags/%E4%BA%BA%E7%B1%BB%E6%92%B0%E5%86%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>原创</title>
+      <link>https://model.work/tags/%E5%8E%9F%E5%88%9B/</link>
+      <pubDate>Mon, 27 Nov 2023 09:06:12 +0800</pubDate>
+      <guid>https://model.work/tags/%E5%8E%9F%E5%88%9B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redis</title>
+      <link>https://model.work/tags/redis/</link>
+      <pubDate>Mon, 27 Nov 2023 09:05:55 +0800</pubDate>
+      <guid>https://model.work/tags/redis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>轻量应用服务器</title>
+      <link>https://model.work/tags/%E8%BD%BB%E9%87%8F%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Fri, 24 Nov 2023 15:25:20 +0800</pubDate>
+      <guid>https://model.work/tags/%E8%BD%BB%E9%87%8F%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>API</title>
+      <link>https://model.work/tags/api/</link>
+      <pubDate>Tue, 21 Nov 2023 11:19:51 +0800</pubDate>
+      <guid>https://model.work/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HUMAN writing</title>
+      <link>https://model.work/tags/human-writing/</link>
+      <pubDate>Tue, 21 Nov 2023 11:19:51 +0800</pubDate>
+      <guid>https://model.work/tags/human-writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAI</title>
+      <link>https://model.work/tags/openai/</link>
+      <pubDate>Tue, 21 Nov 2023 11:19:51 +0800</pubDate>
+      <guid>https://model.work/tags/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>electron</title>
+      <link>https://model.work/tags/electron/</link>
+      <pubDate>Wed, 15 Nov 2023 12:47:21 +0800</pubDate>
+      <guid>https://model.work/tags/electron/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>flask</title>
+      <link>https://model.work/tags/flask/</link>
+      <pubDate>Wed, 15 Nov 2023 12:47:21 +0800</pubDate>
+      <guid>https://model.work/tags/flask/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>python</title>
+      <link>https://model.work/tags/python/</link>
+      <pubDate>Wed, 15 Nov 2023 12:47:21 +0800</pubDate>
+      <guid>https://model.work/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tutorial</title>
+      <link>https://model.work/tags/tutorial/</link>
+      <pubDate>Wed, 15 Nov 2023 12:47:21 +0800</pubDate>
+      <guid>https://model.work/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vscode</title>
+      <link>https://model.work/tags/vscode/</link>
+      <pubDate>Tue, 14 Nov 2023 16:53:23 +0800</pubDate>
+      <guid>https://model.work/tags/vscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatGPT Next Web</title>
+      <link>https://model.work/tags/chatgpt-next-web/</link>
+      <pubDate>Mon, 13 Nov 2023 09:38:58 +0800</pubDate>
+      <guid>https://model.work/tags/chatgpt-next-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>github pages</title>
+      <link>https://model.work/tags/github-pages/</link>
+      <pubDate>Fri, 10 Nov 2023 18:04:30 +0800</pubDate>
+      <guid>https://model.work/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hugo</title>
+      <link>https://model.work/tags/hugo/</link>
+      <pubDate>Fri, 10 Nov 2023 18:04:30 +0800</pubDate>
+      <guid>https://model.work/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>image</title>
+      <link>https://model.work/tags/image/</link>
+      <pubDate>Fri, 10 Nov 2023 16:48:50 +0800</pubDate>
+      <guid>https://model.work/tags/image/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>import</title>
+      <link>https://model.work/tags/import/</link>
+      <pubDate>Fri, 10 Nov 2023 16:48:50 +0800</pubDate>
+      <guid>https://model.work/tags/import/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>github-style</title>
+      <link>https://model.work/tags/github-style/</link>
+      <pubDate>Fri, 10 Nov 2023 16:26:29 +0800</pubDate>
+      <guid>https://model.work/tags/github-style/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChatGPT 3.5/4.0</title>
+      <link>https://model.work/tags/chatgpt-3.5/4.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://model.work/tags/chatgpt-3.5/4.0/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

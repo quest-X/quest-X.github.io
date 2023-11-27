@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>轻量应用服务器 on Chl&#39;s blog</title>
+    <link>https://model.work/tags/%E8%BD%BB%E9%87%8F%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+    <description>Recent content in 轻量应用服务器 on Chl&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Nov 2023 15:25:20 +0800</lastBuildDate>
+    <atom:link href="https://model.work/tags/%E8%BD%BB%E9%87%8F%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用 Docker 安装 Shadowsocks-Manager 过程: 启动面板(1)</title>
+      <link>https://model.work/post/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%85-shadowsocks-manager-%E8%BF%87%E7%A8%8B%E5%90%AF%E5%8A%A8%E9%9D%A2%E6%9D%BF1/</link>
+      <pubDate>Fri, 24 Nov 2023 15:25:20 +0800</pubDate>
+      <guid>https://model.work/post/%E4%BD%BF%E7%94%A8-docker-%E5%AE%89%E8%A3%85-shadowsocks-manager-%E8%BF%87%E7%A8%8B%E5%90%AF%E5%8A%A8%E9%9D%A2%E6%9D%BF1/</guid>
+      <description>🐳 本文介绍了如何使用 Docker 安装 Shadowsocks-Manager，包括安装 Docker Engine、添加配置文件以及启动容器的步骤。</description>
+    </item>
+  </channel>
+</rss>
