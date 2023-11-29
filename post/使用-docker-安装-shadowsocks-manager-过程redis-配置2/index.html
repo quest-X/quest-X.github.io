@@ -437,9 +437,9 @@
                         </div>
                       </div>
                     </details-menu>
-                      244 Words
+                      337 Words
                     <span class="file-info-divider"></span>
-                                        1 min
+                                        2 min
 
                   </div>
                   <div class="file-actions flex-order-2 pt-0">
@@ -512,8 +512,13 @@
 </blockquote>
 <p><img src="/img/2023-11-23-%5B1%5D-%5Bredis%5D.png" alt="Redis 报错"></p>
 <h1 id="大纲">大纲</h1>
+<blockquote>
+<p>⚠注意，本篇文章均在服务器上的Docker容器里进行!!!</p>
+</blockquote>
 <p><img src="/img/2023-11-27-%5Bredis%5D.png" alt=""></p>
-<h1 id="更新">更新</h1>
+<p>在服务器上，使用以下指令，进入Docker容器：</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>sudo docker exec -it ssmgr /bin/bash
+</span></span></code></pre></div><h1 id="更新">更新</h1>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>sudo apt update
 </span></span></code></pre></div><h1 id="安装">安装</h1>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>sudo apt install redis-server
@@ -543,6 +548,9 @@
 </span></span><span style="display:flex;"><span>PONG
 </span></span></code></pre></div><p><img src="/img/2023-11-24-%5B3%5D-%5Bredis%5D.png" alt=""></p>
 <h1 id="其他">其他</h1>
+<blockquote>
+<p>如果提示没有 systemctl，也没关系，只要 sudo service redis-server start 启动成功即可。</p>
+</blockquote>
 <h2 id="查看状态">查看状态</h2>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>sudo systemctl status redis
 </span></span></code></pre></div><h2 id="重启服务">重启服务</h2>
